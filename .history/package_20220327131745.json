@@ -1,0 +1,20 @@
+{
+  "name": "Ticket-mern",
+  "version": "1.0.0",
+  "description": "ticket creation similar to clickup(base)",
+  "main": "index.js",
+  "scripts": {
+    "start": "backend/server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamediyas/Ticket-mern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamediyas/Ticket-mern/issues"
+  },
+  "homepage": "https://github.com/mohamediyas/Ticket-mern#readme"
+}
